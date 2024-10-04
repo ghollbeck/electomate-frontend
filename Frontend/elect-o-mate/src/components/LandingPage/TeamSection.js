@@ -87,7 +87,7 @@ const TeamSection = () => {
       socialLinks: {
         Linkedin: "https://www.linkedin.com/in/jmaillefaud/",
         twitter: "#",
-        github: "#",
+        github: "https://github.com/BrokenDuck",
         website: "#",
         email: "jonathan.maillefaud@example.com" // Added email
       }
