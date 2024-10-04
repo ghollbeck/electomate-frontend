@@ -1,0 +1,102 @@
+[
+  {
+    "value": "atde",
+    "label": "Österreich",
+    "countryCode": "AT"
+  },
+  {
+    "value": "aten",
+    "label": "Austria",
+    "countryCode": "AT"
+  },
+  {
+    "value": "benl",
+    "label": "Belgien",
+    "countryCode": "BE"
+  },
+  {
+    "value": "been",
+    "label": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "value": "bgbg",
+    "label": "България",
+    "countryCode": "BG"
+  },
+  {
+    "value": "bgen",
+    "label": "Bulgaria",
+    "countryCode": "BG"
+  },
+  {
+    "value": "dede",
+    "label": "Deutschland",
+    "countryCode": "DE"
+  },
+  {
+    "value": "deen",
+    "label": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "value": "eses",
+    "label": "España",
+    "countryCode": "ES"
+  },
+  {
+    "value": "esen",
+    "label": "Spain",
+    "countryCode": "ES"
+  },
+  {
+    "value": "frfr",
+    "label": "France",
+    "countryCode": "FR"
+  },
+  {
+    "value": "fren",
+    "label": "France",
+    "countryCode": "FR"
+  },
+  {
+    "value": "huhu",
+    "label": "Magyarország",
+    "countryCode": "HU"
+  },
+  {
+    "value": "huen",
+    "label": "Hungary",
+    "countryCode": "HU"
+  },
+  {
+    "value": "itit",
+    "label": "Italia",
+    "countryCode": "IT"
+  },
+  {
+    "value": "iten",
+    "label": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "value": "plpl",
+    "label": "Polska",
+    "countryCode": "PL"
+  },
+  {
+    "value": "plen",
+    "label": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "value": "ghgh",
+    "label": "Ghana",
+    "countryCode": "GH"
+  },
+  {
+    "value": "ghen",
+    "label": "Ghana",
+    "countryCode": "GH"
+  }
+]
